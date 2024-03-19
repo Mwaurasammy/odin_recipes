@@ -1,0 +1,1 @@
+This is a recipe project from the odin project. I will make a recipe!. This project makes use of git and basic html and css.
